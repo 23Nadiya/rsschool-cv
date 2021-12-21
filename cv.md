@@ -18,6 +18,7 @@ English: Pre-intermediate/Intermediate
 French: Beginner
 
 SUMMARY
+Medical doctor intrested in evidence-based pediatrics. Having a good ability for growth but there is no way to fully implement my knowledge and experience without leaving the country. A strong beliver than our success is in our hands! Trying to make every effort to improve the wealth. My goal is to become a full-stack JavaScript developer and to get the growth opportunities. Front End attracted me by the possibility to see the result of the work. I really like the process of acquiring deep specialist knowledge and getting the satisfactory to see the great result of your work. I'm good as a team member, responsible and well organized.
 
 EXPERIENCE
 2015 - Present: HI "9 children's polyclinic". Pediatrician. April 2019: after successfully passing the exam for the first category at the request of the health committee sent to leadership courses.
