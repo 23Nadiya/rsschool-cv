@@ -81,6 +81,10 @@ body {
   color: #835d0a;
 }
 
+.skills_list {
+  list-style: none;
+}
+
 .skills_html,
 .skills_css,
 .skills_js {
@@ -123,7 +127,10 @@ body {
 }
 
 .header {
-  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 165px;
   padding: 0px;
   background-color: #eaeded;
 }
